@@ -1,5 +1,6 @@
 <?php
 namespace samson\jquery;
+
 /**
  * Интерфейс для подключения модуля в ядро фреймворка SamsonPHP
  *
