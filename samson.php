@@ -10,7 +10,7 @@ namespace samson\jquery;
  * @version 0.1
  */
 
-class JQueryConnector extends samson\core\CompressableExternalModule
+class JQueryConnector extends \samson\core\CompressableExternalModule
 {
 	protected $id = 'jquery'; 
 }
