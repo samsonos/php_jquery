@@ -1,10 +1,11 @@
 {
 	"name":"samsonos/php_jquery",
 	"author":"Vitaly Iegorov <egorov@samsonos.com>",
-	"version":"0.0.1",
 	"require":{
-        "samsonos/php_core":"1.*"
+        "samsonos/php_core":"1.*",
+        "components/jquery":"*"
     },
+    
 	"license":"Open Software License (OSL) v 3.0",
 	"homepage":"http://samsonos.com/"
 }
