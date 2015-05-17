@@ -2,8 +2,7 @@
 	"name":"samsonos/php_jquery",
 	"author":"Vitaly Iegorov <egorov@samsonos.com>",
 	"require":{
-        "samsonos/php_core":"1.*",
-        "components/jquery":"*"
+        "samsonos/php_core":"1.*"
     },
     
 	"license":"Open Software License (OSL) v 3.0",
